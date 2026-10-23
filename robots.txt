@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://the-pools-casino-20-free-spins-casino.vercel.app/sitemap.xml
+Sitemap: https://the-pools-casino-20-free-spins-casi.vercel.app/sitemap.xml
